@@ -59,7 +59,7 @@ button[type="submit"] {
 
   /* Add these for dark mode support */
   background-color: var(--input-bg, #fff); /* fallback for dark mode */
-  color: var(--text-color, #fff);
+  color: var(--text-color, #000);
 }
 
 
